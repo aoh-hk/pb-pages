@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Art of Hosting - HK Chapter",
+    "description": "",
+    "home_page_url": "https://aoh-hk.github.io/pb-pages",
+    "feed_url": "https://aoh-hk.github.io/pb-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Art"
+    },
+    "items": [
+    ]
+}
