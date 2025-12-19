@@ -1,13 +1,55 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Art of Hosting - HK Chapter",
+    "title": "Art of Hosting: Hong Kong Chapter",
     "description": "",
     "home_page_url": "https://aoh-hk.github.io/pb-pages",
     "feed_url": "https://aoh-hk.github.io/pb-pages/feed.json",
     "user_comment": "",
+    "icon": "https://aoh-hk.github.io/pb-pages/media/website/AoHHK-logo.svg",
     "author": {
         "name": "Art"
     },
     "items": [
+        {
+            "id": "https://aoh-hk.github.io/pb-pages/art-of-hosting-training-breakthrough-village/",
+            "url": "https://aoh-hk.github.io/pb-pages/art-of-hosting-training-breakthrough-village/",
+            "title": "Art of Hosting Training @ Breakthrough Village",
+            "author": {
+                "name": "Art"
+            },
+            "tags": [
+                   "past-events"
+            ],
+            "date_published": "2025-12-18T21:35:13+08:00",
+            "date_modified": "2025-12-19T09:56:20+08:00"
+        },
+        {
+            "id": "https://aoh-hk.github.io/pb-pages/what-you-see-is-what-you-get/",
+            "url": "https://aoh-hk.github.io/pb-pages/what-you-see-is-what-you-get/",
+            "title": "What You See Is What You Get!",
+            "summary": "The quick brown fox jumps over the lazy dog The quick brown fox jumps over the lazy dog the second time! 🦊",
+            "content_html": "<h1 class=\"LnpumSThxEWMIsDdAT17 CXMyPcQ6nDv47DKFeywM\">The quick brown fox jumps over the lazy dog</h1>\n<p>The quick brown fox jumps over the lazy dog the second time! 🦊</p>",
+            "author": {
+                "name": "Art"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-18T21:09:08+08:00",
+            "date_modified": "2025-12-18T21:09:08+08:00"
+        },
+        {
+            "id": "https://aoh-hk.github.io/pb-pages/test-post/",
+            "url": "https://aoh-hk.github.io/pb-pages/test-post/",
+            "title": "Test Post",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus ligula et est facilisis mollis. Vestibulum hendrerit ex a laoreet aliquet. Curabitur tincidunt est in nisi aliquet, nec euismod nulla commodo. Donec feugiat urna eget erat venenatis imperdiet. Sed in urna at sem placerat malesuada.",
+            "content_html": "\n  <p>\n    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus ligula et est facilisis mollis. Vestibulum hendrerit ex a laoreet aliquet. Curabitur tincidunt est in nisi aliquet, nec euismod nulla commodo. Donec feugiat urna eget erat venenatis imperdiet. Sed in urna at sem placerat malesuada. Mauris viverra elementum quam, tincidunt feugiat tortor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Suspendisse gravida congue lorem, eget rhoncus neque rhoncus ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed pharetra augue non justo rutrum cursus. Aliquam volutpat hendrerit elementum. Quisque maximus, metus vel congue elementum, dui nulla dictum diam, at ullamcorper mauris lorem eu nibh. Nam efficitur dolor diam. Praesent id lobortis diam, quis facilisis diam. Donec mi elit, euismod a euismod ac, dictum a arcu.\n<br>\n<br>Fusce a dictum mi. Fusce vitae risus elit. Vivamus non mi id neque tempor elementum. Morbi quis turpis volutpat, condimentum ipsum sit amet, tempus ex. Mauris condimentum ante mauris, ornare interdum nibh aliquam et. Ut nunc leo, finibus a metus non, tempus euismod ipsum. Mauris in faucibus libero, sed tincidunt nisl. Donec consectetur, nisi id interdum tristique, justo leo consectetur odio, sed vestibulum diam velit vitae justo.\n<br>\n<br>Ut sagittis risus mi, sed elementum purus facilisis at. Pellentesque pretium accumsan enim. Phasellus scelerisque ac sapien non volutpat. Curabitur tristique lacinia quam, eu lacinia felis semper et. Quisque tortor nisl, volutpat et est nec, dapibus pharetra enim. Mauris varius lobortis nisl, a fermentum libero tristique in. Sed vel iaculis velit. Suspendisse dapibus blandit felis. Proin eget lacus rhoncus, fermentum orci ut, gravida tellus. Donec a neque fermentum, interdum lorem vel, condimentum magna. Duis ultrices congue vulputate. Nunc tincidunt, justo sit amet consectetur consectetur, magna nulla facilisis velit, vitae pellentesque urna massa sed leo. Nunc gravida molestie sapien et ornare.\n<br>\n<br>Sed ac hendrerit enim. In vulputate nulla a ullamcorper maximus. Mauris ut imperdiet leo. Duis non quam ligula. Vivamus vel ligula vulputate, cursus risus eu, luctus ex. Nullam et felis id nunc maximus imperdiet. Etiam ac nunc luctus lorem bibendum hendrerit.\n<br>\n<br>Cras non turpis eleifend, aliquam odio quis, congue nunc. Mauris consequat nulla at purus egestas, consectetur interdum eros volutpat. Nulla vitae viverra sapien, efficitur posuere nisl. Nulla pharetra finibus odio, id sagittis ex pellentesque non. Nam pretium elementum nisl a varius. Morbi eu sodales enim. Morbi posuere sit amet risus et pulvinar. Vestibulum quam nibh, aliquet eu sodales nec, consectetur vitae turpis. Phasellus dui metus, efficitur at mi vel, rutrum hendrerit nunc. Nam commodo lobortis arcu, in mattis massa auctor vitae. Praesent porta maximus metus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;&nbsp;\n  </p>",
+            "author": {
+                "name": "Art"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-18T20:28:08+08:00",
+            "date_modified": "2025-12-18T21:06:14+08:00"
+        }
     ]
 }
